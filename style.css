@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+.container{
+   justify-content: center;
+    text-align: center;
+    margin: auto;
+    color: brown;
+    font-weight: bolder;
+    
+    
+}
+input,label{
+  display: block;
+  justify-content: center;
+  margin: auto;
+ 
+}
+input{
+   margin-bottom: 0.5 rem;
+}
